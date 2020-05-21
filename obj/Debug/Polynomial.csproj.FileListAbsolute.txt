@@ -1,0 +1,7 @@
+C:\Users\Aryana\source\repos\Polynomial\obj\Debug\Polynomial.csprojAssemblyReference.cache
+C:\Users\Aryana\source\repos\Polynomial\obj\Debug\Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\Aryana\source\repos\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\Aryana\source\repos\Polynomial\bin\Debug\Polynomial.exe
+C:\Users\Aryana\source\repos\Polynomial\bin\Debug\Polynomial.pdb
+C:\Users\Aryana\source\repos\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\Aryana\source\repos\Polynomial\obj\Debug\Polynomial.pdb
